@@ -1,12 +1,5 @@
 # Submission Guidelines
 
-Participating in the hackathon is as easy as contributing to an open source project on GitHub. Exactly so, because you will register your project by creating an issue in this repository, and submit it by creating a pull request.
-
-Here’s how it works:
-
-## The Submission Process
-
-
 For submitting the project, create a new fork of the hackathon repo, and add your project folder inside `hackathonRepo/submissions/` and add a markdown file that provides project description, issues, team members and any additional materials used in the folder.
 
 You can refer `submissions/exampleProject` folder for reference.
